@@ -43,3 +43,16 @@ python bivtflow.py
 ## Acknowledgement
 
 Our code is generally built upon: [taming-transformers](https://github.com/CompVis/taming-transformers/tree/master),[latent-diffusion](https://github.com/CompVis/latent-diffusion),[RectifiedFlow](https://github.com/gnobitab/RectifiedFlow)
+
+## BibTeX
+```
+@article{fang2024bidirectional,
+  title={Bidirectional visual-tactile cross-modal generation using latent feature space flow model},
+  author={Fang, Yu and Zhang, Xuehe and Xu, Wenqiang and Liu, Gangfeng and Zhao, Jie},
+  journal={Neural Networks},
+  volume={172},
+  pages={106088},
+  year={2024},
+  publisher={Elsevier}
+}
+```
